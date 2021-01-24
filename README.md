@@ -6,7 +6,7 @@ It serves the purpose to teach basic operations of two data structures, namely, 
 The game is part of [Nemobot](https://www.facebook.com/Nemo-Bot-454163798317367/) , a chatbot interface on Facebook Messenger devoted to education. 
 
 ## Try the game?
-### Go to the Facebook Messenger and start a conversation with Nemobot 
+### Go to Facebook Messenger and start a conversation with Nemobot 
 
 ### Start the game by entering *helloworld AmyQi*
 
